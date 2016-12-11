@@ -1,11 +1,11 @@
 ## iOS开发中的一些干货
 
 > 1、代码规范  
-> &emsp;1.1、Xcode工程目录结构
-> &emsp;1.2、
-> 2、开发中常用的Xcode插件  
+> &emsp;1.1、Xcode工程目录结构  
+> &emsp;1.2、   
+> 2、开发中常用的Xcode插件 
 > 3、iOS开发中的tips  
-> 4、APP发布与部署  
+> 4、APP发布与部署  
 > &emsp;4.1、脚本打包  
 > &emsp;4.2、Xcode一键打包发布 
 > &emsp;4.3、Jenkins+GitHub+fir-cli自动打包发布     
