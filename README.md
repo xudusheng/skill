@@ -9,7 +9,7 @@
 > 4、APP发布与部署  
 > &emsp;4.1、脚本打包  
 > &emsp;4.2、Xcode一键打包发布  
-> &emsp;4.3、Jenkins+GitHub+fir-cli自动打包发布  
+> &emsp;4.3、Jenkins+GitHub+fir-cli自动打包发布 https://xudusheng.github.io/2016/12/09/自动化测试（Jenkins+GitHub+fir-cli自动打包发布）/  
 > 5、比较好用的第三方库  
 > &emsp;5.1、Aspects  
 > &emsp;5.2、WebViewJavaScriptBridge  
